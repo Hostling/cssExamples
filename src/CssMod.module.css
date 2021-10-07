@@ -1,0 +1,11 @@
+.otheruser {
+    background: aquamarine;
+    color: saddlebrown;
+    list-style: none;
+}
+
+.otheractiveuser {
+    background: saddlebrown;
+    color: aquamarine;
+    list-style: inside;
+}
